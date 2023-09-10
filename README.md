@@ -1,10 +1,10 @@
-# Emotion Detection and Review Analysis for movie recommendation
+# Emotion Detection and Review Analysis for Movie Recommendation
 This is a project that recommends you a list of movies based on the review you have provided for a movie and the facial emotions you displayed while watching that movie.
 
 ## How to run
 Clone the repo locally
 ```
-git clone git@github.com:amitmakkad/G12_Healthcare.git 
+git clone https://github.com/MihirK1212/movie-recommendation-from-emotion.git
 ```
 Now go to repo directory
 ```
