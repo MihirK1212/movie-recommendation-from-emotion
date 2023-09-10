@@ -21,9 +21,7 @@ Install dependencies
 pip install -r requirements.txt
 ```
 Download weights
-```
 Downoload 'emotion_detector.h5' and 'weights.h5' from the drive [link](https://drive.google.com/drive/folders/1dIUeL1p2Izh8kWTUq0YzlAYrx-4gw6P3?usp=sharing) and place them in the project folder
-```
 
 Run the script
 ```
