@@ -1,0 +1,4 @@
+Training Datasets/
+venv/
+emotion_detector.h5
+weights.h5
